@@ -1,6 +1,7 @@
-# Stylish
+# Stylish CSS
 
-## Google
+## Google 
+Works better with Greasemonkey script [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google)
 ### Screenshot
 ![Screenshot](google.png)
 
