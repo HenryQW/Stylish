@@ -5,9 +5,11 @@ body {
     width: auto !important;
     width: 1000px;
 }
+
 .sfbgg {
     background-color: rgba(74, 134, 237, 1);
 }
+
 .srp #sfdiv {
     max-width: 600px;
     overflow: hidden;
@@ -18,10 +20,12 @@ body {
     border-color: #000;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.25);
 }
+
 .sbtc {
     position: relative;
     top: -10px;
 }
+
 #sblsbb {
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
@@ -36,9 +40,11 @@ body {
     background-image: none;
     border-color: #fff;
 }
+
 #cnt {
     padding-top: 0px;
 }
+
 .sbico {
     background: none;
     color: transparent;
@@ -47,6 +53,7 @@ body {
     margin: 0 auto 2px;
     width: 18px;
 }
+
 #logo img,
 #logocont img {
     width: 72px;
@@ -61,40 +68,51 @@ body {
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
     transition: box-shadow 0.2s;
 }
+
 #logocont {
     margin-top: -10px;
 }
+
 #qbi {
     margin-top: -10px;
 }
+
 #qbc {
     margin-top: 60px;
 }
+
 .gsfi,
 .lst {
     margin: -5px 0px 0px 15px !important;
     font-family: Roboto, Arial, sans-serif;
     font-weight: 400;
 }
+
 .sbib_b {
     padding: 2px 5px 5px 5px;
 }
+
 .sbfl_a {
     visibility: hidden;
 }
+
 body.vasq #hdtbSum {
     height: 59px;
     line-height: 54px;
 }
+
 body.vasq #resultStats {
     line-height: 54px;
 }
+
 #hdtb {
     margin-top: -15px;
 }
+
 #hdtb .hdtb-mitem a {
     color: #000 !important;
 }
+
 .hdtbItm label:hover,
 .hdtbItm a:hover,
 #hdtb-more-mn a:hover,
@@ -104,9 +122,11 @@ body.vasq #resultStats {
 #hdtb-tls:hover {
     color: #db3236 !important;
 }
+
 #hdtb-tls {
     color: #000 !important;
 }
+
 #hdtb-tls:hover {
     border: none !important;
     box-shadow: none !important;
@@ -114,11 +134,13 @@ body.vasq #resultStats {
     background-color: #fafafa!important;
     background-image: none !important;
 }
+
 #hdtb-more-mn {
     min-width: 120px;
     background-color: #4885ed !important;
     border: none;
 }
+
 #resultStats {
     position: absolute;
     top: -53px !important;
@@ -129,17 +151,21 @@ body.vasq #resultStats {
     font-family: Roboto, sans-serif !important;
     font-size: 12px !important;
 }
+
 #resultStats nobr {
     color: #A6B4B9 !important;
     font-family: Roboto, sans-serif !important;
 }
+
 #ab_ctls a {
     text-decoration: none;
     visibility: hidden;
 }
+
 #top_nav {
     min-width: 100px;
 }
+
 body,
 .g,
 html,
@@ -156,10 +182,12 @@ h1,
 .ksb {
     font-family: Roboto, arial, sans-serif;
 }
+
 #res h3,
 ._wI a {
     font-family: Roboto, sans-serif;
 }
+
 #tads a,
 #tadsb a,
 #res a,
@@ -168,32 +196,44 @@ h1,
     text-decoration: none;
     padding-bottom: 5px;
 }
+
 #ires .kv {
     height: 17px;
     line-height: 16px;
     padding-bottom: 5px;
 }
+
 .osl {
     margin-top: -18px;
     visibility: hidden;
 }
+
 em {
     font-weight: bold;
     font-style: normal;
 }
+
 .g {
     margin-top: 0;
     margin-bottom: 23px;
 }
+
 .gsri_a {
     margin-top: -12px;
 }
+
 #rhs .kp-blk {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.25);
 }
+
 #irl_r {
     visibility: hidden;
 }
-#footcnt > * {
+
+#footcnt>* {
     display: none
+}
+
+.rhsvw .kno-ftr {
+    visibility: hidden;
 }

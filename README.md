@@ -1,4 +1,10 @@
 # Stylish
 
 ## Google
-regex https*://www.google..*.q=..*
+### Screenshot
+![Screenshot](google.png)
+
+### Regex
+```regex
+https*://www.google..*.q=..*
+```
