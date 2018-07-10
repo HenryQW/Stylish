@@ -1,0 +1,24 @@
+@-moz-document domain('rss.wangqiru.com'){
+  .postContent {
+  font-size: 16px;
+}
+.hlContent {
+  font-size: 15px;
+}
+html, button, input, select, textarea {
+  font: 13px/1.5 Helvetica sans-serif, Arial, "Microsoft Yahei";
+}
+.cdm.expandable:not(.active) .cdmHeader > *, .hl > * {
+  padding: 5px 5px;
+  order: 3;
+}
+.cdm.expandable:not(.active) .cdmHeader, .hl {
+  margin-bottom: 10px;
+}
+.cdm.expandable, .hl {
+  border-top:0 solid #eee;
+}
+.title, .postHeader .postTitle a {
+  font-weight: bold;
+  font-size: 16px;
+}
