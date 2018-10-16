@@ -1828,7 +1828,8 @@ table.files td.message a:hover,
 .orgs-help-item-octicon .octicon,
 span.btn-link,
 .btn-link,
-a.btn-link {
+a.btn-link,
+span.opened-by > a {
     color: #4183C4 !important;
 }
 
@@ -7386,6 +7387,7 @@ body.blog pre > code,
     color: #e4bf7a!important;
     font-weight: 700
 }
+
 
 /*! Jupyter: Solariazed Dark */
 #notebook .highlight,
